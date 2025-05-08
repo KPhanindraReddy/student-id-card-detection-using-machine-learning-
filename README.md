@@ -85,13 +85,6 @@ student-id-card-detection/
 └── source code.ipynb     # Main application
 ```
 
-## 🎨 Sample Output
-
-<div align="center">
-  <img src="https://i.imgur.com/JK7GW5V.png" width="45%" alt="Wearing ID">
-  <img src="https://i.imgur.com/8nQxW4G.png" width="45%" alt="No ID"> 
-</div>
-
 ## 📈 Future Enhancements
 
 - [ ] Add audio feedback
