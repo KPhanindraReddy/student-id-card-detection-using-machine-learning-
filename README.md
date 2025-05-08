@@ -1,8 +1,6 @@
 # 🎓 Student ID Card Detection using Machine Learning
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJwY2F0Z3J1bWJ5d3R6Z3V5eWx5Y2NqZ3BxZzZ1cGZqZ2N0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfX9Ejma3V9W8n5EP/giphy.gif" width="400" alt="ID Card Detection Demo">
-</div>
+
 
 ## 📌 Project Overview
 
